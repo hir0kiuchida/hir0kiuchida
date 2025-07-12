@@ -1,8 +1,8 @@
 ## Hi 👋 I'm Hiroki 
-A frontend developer based in Japan🗼
+A software developer based in Japan🗼
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,rxjs,nodejs,express,nestjs,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,rxjs,nodejs,express,nestjs,scala,python,aws,gcp&theme=light)](https://skillicons.dev)
 
 <!--
 **hir0kiuchida/hir0kiuchida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
